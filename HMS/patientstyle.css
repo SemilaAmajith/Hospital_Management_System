@@ -1,0 +1,121 @@
+/* CSS for the room availability form */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  
+
+   margin-left: 8px;
+  margin-bottom: 10px;
+  margin-top: 20px;   
+   padding: 5px 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 90px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: 2px;
+  border-color: black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+table th {
+  background-color: #f2f2f2;
+}
+
+tr{
+  width: 100%;
+}
+
+tbody {
+   width: 100%;
+}
+
+thead {
+   width: 100%;
+}
+
+.date {
+  width: 17.8%;
+  padding: 5px;
+}
+
+.gender {
+  width: 18.7%;
+  padding: 5px;
+}
+
+.address {
+  width: 18.5%;
+}
+
+.submit {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 20px;   
+   padding: 5px 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 90px;
+  background-color: #4CAF50;
+  color: white;
+  border: 2px;
+  border-color: black;
+  cursor: pointer;
+  border-radius: 5px; 
+}
+
+.do{
+   margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;   
+   padding: 5px 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 90px;
+  background-color: #4CAF50;
+  color: white;
+  border: 2px;
+  border-color: black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.link{
+  color: #fff;
+}

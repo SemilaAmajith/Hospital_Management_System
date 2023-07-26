@@ -1,0 +1,97 @@
+/* CSS for the room availability form */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+
+  color: white;
+  border: none;
+  cursor: pointer;
+
+     margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;   
+   padding: 5px 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 90px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: 2px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+table th {
+  background-color: #f2f2f2;
+}
+.btm{
+
+     margin-right: 10px;
+  margin-bottom: 0px;
+  margin-top: 10px;   
+   padding: 5px 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   width: 90px;
+  background-color: #4CAF50;
+  color: white;
+  border-color: black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.roomtype {
+  width: 18.8%;
+  padding: 5px;
+  text-transform: uppercase;
+}
+
+.as {
+  width: 18.8%;
+  padding: 5px;
+}
+
+.bed {
+  margin-bottom: 70px;
+}
+
+.bedc {
+  margin-bottom: -15px;
+  margin-top: 15px;
+}

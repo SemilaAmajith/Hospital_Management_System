@@ -1,0 +1,154 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-style: "times new roman",times,serif;
+}
+
+.dash {
+	text-align: left;
+	margin-right:85%;
+	font-size: 20px;
+}
+
+nav {
+	background: transparent;
+	padding: 30px;
+}
+
+nav ul {
+	text-align: right;
+	list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+  text-align: right;
+}
+
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.section1 {
+
+	text-align: left;
+	height: 370px;
+	margin-left: 10%;
+	margin-top: 10%
+
+}
+
+.hos {
+	
+	font-size: 45px;
+	background: transparent;
+	text-shadow: 2px 2px #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  text-decoration-color: blue;
+  text-decoration-line: 5px;
+	width: 30%;
+	text-align: center;
+
+	
+}
+
+.section2 {
+	border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	width: 25%;
+	float: right;
+	height: 70px;
+	margin-right: 10%;
+	margin-top: -25%;
+	
+
+}
+
+.section3 {
+	border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 25%;
+	float: right;
+	height: 70px;
+	margin-left: 6%;
+	margin-bottom: 5px;
+	margin-right: 10%;
+	margin-top: -11%;
+}
+
+
+.section4 {
+	border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	width: 25%;
+	margin: 0 auto;
+	height: 70px;
+	margin-bottom: 5px;
+	float: right;
+	margin-right: 10%;
+	margin-top: -18%;
+
+}
+
+	.section5 {
+	border-radius: 15px;
+  	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	width: 25%;
+	margin: 0 auto;
+	height: 70px;
+	margin-bottom: 20px;
+	float: right;
+	margin-right: 10%;
+	margin-top: -4%;
+	
+}
+
+.back {
+	background-image: url(24.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+
+}
+
+.container {
+	height: 780px;
+}
+
+button	{
+	float: center;
+  background-color: #218ab0;
+  width: 95%;
+  padding: 10px ;
+  border-radius: 15px;
+  margin-left: 10px;
+  border: none;
+  margin-top: 18px;
+}
+
+label {
+	margin-left: 25%;
+}
+
+.link {
+	color: inherit;
+	color: #fff;
+	text-decoration: none;
+}
+
+footer {
+  background: transparent;
+  color: #333;
+  text-align: center;
+  padding: 50px;
+  margin-top: 50px;
+}
